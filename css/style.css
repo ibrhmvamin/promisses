@@ -1,0 +1,18 @@
+/* * {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("https://www.sportsadda.com/static-assets/waf-images/06/29/ee/16-9/PbVXFupWPk.jpg");
+  background-size: cover;
+}
+
+.ball {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border-radius: 50%;
+  position: absolute;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+} */
